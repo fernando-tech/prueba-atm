@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "prueba-elk"
+    }
+  },
+  "defaultProject": "prueba-elk",
+  "cli": {
+    "analytics": "cbacbee6-59c1-4625-888d-237efa72e9a0"
+  }
 }
